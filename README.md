@@ -36,7 +36,7 @@
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
 > cp -r stealth-bot-main $HOME
-> cd xdev-self-main
+> cd stealth-bot-main
 > npm i
 > node run.js
 ```
