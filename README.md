@@ -1,5 +1,10 @@
-<div align="center">
-<img src="https://a.uguu.se/rzuxHjbG.jpg" alt="XDLYY" width="300" />
+<p align="center">
+<img src="https://raw.githubusercontent.com/Xdlyy/stealth-bot/main/media/fake.jpg" alt="STEALTH BOT" width="128" height="128"/>
+</p>
+<p align="center">
+<a href="#"><img title="STEALTH BOT" src="https://img.shields.io/badge/STEALTH BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+
 
 # Jangan lupa kasih stars & follow :)
 
