@@ -29,13 +29,13 @@
 > pkg install bash
 > pkg install ffmpeg
 > pkg install libwebp
-> git clone https://github.com/xdevteam404/xdev-self
-> cd xdev-self
+> git clone https://github.com/Xdlyy/stealth-bot
+> cd stealth-bot
 > npm i
 > node run.js
 # Untuk Sdcard (File Sudah Di Download)
 > cd /sdcard
-> cp -r xdev-self-main $HOME
+> cp -r stealth-bot-main $HOME
 > cd xdev-self-main
 > npm i
 > node run.js
